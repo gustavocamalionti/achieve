@@ -4,7 +4,7 @@
 ## Tecnologias Back - End | RESPONSÁVEL: GUSTAVO CAMALIONTI
 - Laravel 
 - API RESTFULL
-- Gestão de pacotes - Webpack
+- Gestão de pacotes - VITE
 - MySQL
 
 ## Tecnologias Front - End | RESPONSÁVEL: MARIANA GOMES
