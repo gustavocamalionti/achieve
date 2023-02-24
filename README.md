@@ -3,7 +3,7 @@
  
 ## Tecnologias Back - End | RESPONSÁVEL: GUSTAVO CAMALIONTI
 - Laravel 
-- API RESTFULL
+- API RESTful
 - Gestão de pacotes - VITE
 - MySQL
 
