@@ -4,7 +4,7 @@
 ## Tecnologias Back - End | RESPONSÁVEL: GUSTAVO CAMALIONTI
 - Laravel 
 - API RESTful
-- Gestão de pacotes - VITE
+- Design patterns (SOLID)
 - MySQL
 
 ## Tecnologias Front - End | RESPONSÁVEL: MARIANA GOMES
@@ -12,6 +12,7 @@
 - JavaScript
 - HTML/CSS
 - TAILWIND CSS 
+- Gestão de pacotes - VITE
 
 
  https://github.com/marigomes-br
