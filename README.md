@@ -1,5 +1,5 @@
 # achieve
- Projeto de portifólio principal em parceria com a desenvolvedora Mariana Gomes. 
+ Projeto principal em parceria com a desenvolvedora Mariana Gomes. 
  
 ## Tecnologias Back - End | RESPONSÁVEL: GUSTAVO CAMALIONTI
 - Laravel 
